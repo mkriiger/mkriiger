@@ -1,7 +1,7 @@
 # 💫About Me :
-- I'm from Brasil, Rio de Janeiro
+- I'm from Rio de Janeiro, Brazil
 - Currently working with Java EE
-- Interests in Spring and JavaScript tools, like Node and Angular
+- Interests in fullstack development, with Spring and React/Angular
 - Graduated in System Analysis at [CEFET/RJ](http://www.cefet-rj.br/index.php)
 
 ## 🌐Socials
