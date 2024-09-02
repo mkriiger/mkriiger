@@ -1,8 +1,8 @@
 # 💫About Me :
-- I'm from Rio de Janeiro, Brazil
-- Currently working with Java and JSF
-- Interests in fullstack development, with Spring and React/Angular
-- Graduated in System Analysis at [CEFET/RJ](http://www.cefet-rj.br/index.php)
+- I live in Brasil, Rio de Janeiro, RJ
+- Currently working with Java EE and JSF with Primefaces
+- Learning Spring Boot
+- I am a graduate of [CEFET/RJ](http://www.cefet-rj.br/index.php)
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/mkriiger#1936) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mkriiger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mkriiger) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12262943) 
