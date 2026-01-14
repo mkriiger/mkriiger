@@ -1,6 +1,6 @@
 # 💫About Me :
-- I live in Brasil, Rio de Janeiro, RJ
-- Currently working with Java EE and JSF with Primefaces
+- I'm living in Brasil, Rio de Janeiro, RJ
+- Currently working with Java EE
 - Learning Spring Boot
 - I am a graduate of [CEFET/RJ](http://www.cefet-rj.br/index.php)
 
